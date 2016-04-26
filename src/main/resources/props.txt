@@ -1,0 +1,2 @@
+nest-token=c.FEXBwng9w2DaUaHlOrXSv8CZGfvW8x4P3o3mKHyqYucstrT5qeulhfNet2YXZJvduZTrGNf59Axe1ZZtV161Na277BHJ299bOKTP9238Hfq8kaxXctWdVahyyfugmf1b9GYDwzvDg4Qsa4YV
+firebase-url=https://developer-api.nest.com
